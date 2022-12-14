@@ -1,0 +1,7 @@
+Charmander 5 34 Pound Tackle Scratch Ember
+Squirtle 5 34 Pound Tackle Scratch Splash
+Bulbasaur 5 34 Pound Tackle Scratch
+Pidgey 5 18 Pound Tackle Scratch Acrobatics
+Weedle 6 24 String_Shot Tackle Scratch Pound
+Geodude 6 24 Rock_Throw Tackle Head_Butt Rollout
+Onix 7 30 Iron_Tail Tackle Pound Dig
